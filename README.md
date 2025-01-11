@@ -4,6 +4,8 @@
 
 - 👨‍🎓 I’m currently a MCA Candidate | University of Mumbai
 - 🎓 BCA Graduate | BNMU
+
+  ---
  <h2 align="center">You can reach me at :alien:</h2>
  <p align="center">
   
@@ -11,12 +13,16 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="amitkr20850@gmail.com">
+  <a href="mailto:amitkr20850@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="https://twitter.com/camit001__">
+    <img src="https://static.vecteezy.com/system/resources/previews/027/395/710/original/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
   
  </p>
--  📫 How to reach me ... email me amitkr20850@gmail.com
+---
 - 👀 Pronouns - he/him
 <!--
 - <p align="center"> <img src="https://komarev.com/ghpvc/?username=camit001" alt="camit001" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
