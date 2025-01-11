@@ -30,6 +30,17 @@
 - <p align="center"> <img src="https://komarev.com/ghpvc/?username=camit001" alt="camit001" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
 -->
 --- 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camit001&langs_count=10&theme=tokyonight&layout=compact" alt="camit001 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=camit001&show_icons=true&theme=synthwave" alt="camit001 :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
   **About Me**
 - 💼 Aspiring Full Stack, .NET Developer, and Data Science Enthusiast
 - 🔍 Proficient in .NET, HTML, CSS, Python, SQL, C#
