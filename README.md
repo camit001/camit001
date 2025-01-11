@@ -4,7 +4,7 @@
 <p><em>- I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
    - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
    - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> <br>
-   - 👀 Pronouns - he/him ## 👨‍💻
+   - 👀 Pronouns - he/him 👨‍💻
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
@@ -43,12 +43,12 @@
 -->
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 💼 Aspiring Full Stack, .NET Developer, and Data Science Enthusiast
-- 🔍 Proficient in .NET, HTML, CSS, Python, SQL, C#
-- 📊 Skilled in Data Visualization with Tableau and PowerBI
+- 💼 Aspiring Full Stack/.NET Developer, and Data Science Enthusiast
+- 🔍 Proficient in C#, HTML, CSS, Python, SQL, .Net
+- 📊 Skilled in Data Visualization with PowerBI
 - ✨ Experience in UX/UI Design using Figma
 - 📈 Excel at analyzing and interpreting data to drive informed decision-making
--💡Basic knowledge of Java, C, C++, JavaScript, Git | GitHub, PowerPoint, Word   — continuously expanding my skill set to stay ahead of the curve in today’s fast-evolving tech landscape
+-💡Basic knowledge of Java, C, C++, JavaScript, Bootstrap, MongoDB, Git | GitHub, PowerPoint, Word   — continuously expanding my skill set to stay ahead of the curve in today’s fast-evolving tech landscape
 - 👋 I am committed to continuous learning and staying updated with the latest industry trends. 
 
 ⭐ From [AMIT](https://github.com/camit001)
