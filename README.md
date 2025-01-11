@@ -23,11 +23,12 @@
   
  </p>
 ---
+
 - 👀 Pronouns - he/him
 <!--
 - <p align="center"> <img src="https://komarev.com/ghpvc/?username=camit001" alt="camit001" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
 -->
-- 
+--- 
   **About Me**
 - 💼 Aspiring Full Stack, .NET Developer, and Data Science Enthusiast
 - 🔍 Proficient in .NET, HTML, CSS, Python, SQL, C#
