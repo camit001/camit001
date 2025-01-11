@@ -1,9 +1,9 @@
 <h2> Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!, <br>I'm Amit Kumar! <img src="https://media.giphy.com/media/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 
-<p><em>I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
-   BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
-  - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> 
+<p><em>- I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
+   - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
+   - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> 
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
@@ -12,7 +12,6 @@
   ---
  <h2 align="center">You can reach me at :alien:</h2>
  <p align="center">
-  
   <a href="https://www.linkedin.com/in/camit001/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
@@ -24,7 +23,6 @@
   <a href="https://twitter.com/camit001__">
     <img src="https://static.vecteezy.com/system/resources/previews/027/395/710/original/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
-  
  </p>
  
 ---
