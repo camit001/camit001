@@ -1,5 +1,5 @@
-<h2> Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!, <br>I'm Amit Kumar! <img src="https://giphy.com/embed/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!, <br>I'm Amit Kumar! <img src="https://media.giphy.com/media/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 
 - 👀 🌟 Tech Explorer | Future-Ready Developer | 
 
