@@ -1,5 +1,6 @@
-- 👋 Hi there,  𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-- **I’m Amit Kumar. Welcome to my Profile.**
+<h2> Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!, <br>I'm Amit Kumar! <img src="https://giphy.com/embed/wRBDj2fWeJ4NdBwnUA" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<iframe src="https://giphy.com/embed/wRBDj2fWeJ4NdBwnUA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/cat-animation-cartoon-wRBDj2fWeJ4NdBwnUA">via GIPHY</a></p>
 - 👀 🌟 Tech Explorer | Future-Ready Developer | 
 
 - 👨‍🎓 I’m currently a MCA Candidate | University of Mumbai
