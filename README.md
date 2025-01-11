@@ -3,15 +3,15 @@
 
 <p><em>- I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
    - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
-   - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> 
+   - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> <br>
+   - 👀 Pronouns - he/him ## 👨‍💻
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
 
 
   ---
- <h2 align="center">You can reach me at :alien:</h2>
- <p align="center">
+ <h2 align="center">You can reach me at :alien:</h2> <p align="center">
   <a href="https://www.linkedin.com/in/camit001/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
@@ -25,12 +25,10 @@
   </a>
  </p>
  
----
-
-- 👀 Pronouns - he/him
 <!--
 - <p align="center"> <img src="https://komarev.com/ghpvc/?username=camit001" alt="camit001" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
 -->
+
 --- 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -44,7 +42,7 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 -->
 
-  **About Me**
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 💼 Aspiring Full Stack, .NET Developer, and Data Science Enthusiast
 - 🔍 Proficient in .NET, HTML, CSS, Python, SQL, C#
 - 📊 Skilled in Data Visualization with Tableau and PowerBI
