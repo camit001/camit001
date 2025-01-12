@@ -5,6 +5,7 @@
    - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
    - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> <br>
    - 👀 Pronouns - he/him 👨‍💻
+   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> 
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
@@ -53,7 +54,11 @@
 
 ⭐ From [AMIT](https://github.com/camit001)
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=camit001&show_icons=true&theme=synthwave" alt="camit001 :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 <!---
