@@ -43,7 +43,7 @@
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 💼 Aspiring Full Stack/.NET Developer, and Data Science Enthusiast
-- 🔍 Proficient in C#, HTML, CSS, Python, SQL, .Net
+- 🔍 Proficient in C#/.Net, Java, HTML, CSS, Python, SQL
 - 📊 Skilled in Data Visualization with PowerBI
 - ✨ Experience in UX/UI Design using Figma
 - 📈 Excel at analyzing and interpreting data to drive informed decision-making
