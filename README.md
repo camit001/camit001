@@ -47,7 +47,7 @@
 - 📊 Skilled in Data Visualization with PowerBI
 - ✨ Experience in UX/UI Design using Figma
 - 📈 Excel at analyzing and interpreting data to drive informed decision-making
--💡Basic knowledge of Java, C, C++, JavaScript, Bootstrap, MongoDB, Git | GitHub, PowerPoint, Word   — continuously expanding my skill set to stay ahead of the curve in today’s fast-evolving tech landscape
+-💡Basic knowledge of PHP, C, C++, JavaScript, Bootstrap, MongoDB, Git | GitHub, MS Office   — continuously expanding my skill set to stay ahead of the curve in today’s fast-evolving tech landscape
 - 👋 I am committed to continuous learning and staying updated with the latest industry trends. 
 
 ⭐ From [AMIT](https://github.com/camit001)
