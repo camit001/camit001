@@ -14,7 +14,7 @@
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
- <h2 align="center">You can reach me at </h2> <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30" <p align="center">
+ <h2 align="center">You can reach me at <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30" > </h2>  <p align="center">
   <a href="https://www.linkedin.com/in/camit001/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Amit LinkedIn Profile" height="30" width="30">
   </a>
