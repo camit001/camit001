@@ -14,8 +14,6 @@
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
-
-  ---
  <h2 align="center">You can reach me at :alien:</h2> <p align="center">
   <a href="https://www.linkedin.com/in/camit001/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Amit LinkedIn Profile" height="30" width="30">
@@ -38,7 +36,6 @@
 
 --- 
 <h2 align="center"> Top langs <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   <!-- :tongue:  --> </h2>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camit001&langs_count=10&theme=tokyonight&layout=compact" alt="camit001 :: Top Langs" /></p>
 
 <!--
