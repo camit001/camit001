@@ -6,8 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Amit+Kumar;A+Tech+Explorer;+Future-Ready+Developer;Data+Analyst+Enthusiast" /></a> <img src="https://media.giphy.com/media/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
 </p>
 
-<p><em>- I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
-   - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
+<p><em> - I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
+    - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
   <!-- - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> <br>  -->
    
   - 👀 Pronouns - he/him 👨‍💻
@@ -37,7 +37,7 @@
 -->
 
 --- 
-<h4 align="center"> Top langs <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   <!-- :tongue:  --> </h4>
+<h2 align="center"> Top langs <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   <!-- :tongue:  --> </h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camit001&langs_count=10&theme=tokyonight&layout=compact" alt="camit001 :: Top Langs" /></p>
 
@@ -50,7 +50,7 @@
 -->
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 💼 Aspiring Full Stack/.NET Developer, and Data Science Enthusiast
+- 💼 Aspiring Full Stack/.NET Developer, and Data Analyst Enthusiast
 - 🔍 Proficient in C#/.Net, Java, HTML, CSS, Python, SQL
 - 📊 Skilled in Data Visualization with PowerBI
 - ✨ Experience in UX/UI Design using Figma
