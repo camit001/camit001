@@ -10,7 +10,7 @@
    - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
   <!-- - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> <br>  -->
    
-   - 👀 Pronouns - he/him 👨‍💻
+  - 👀 Pronouns - he/him 👨‍💻
   <!-- </br> Developer Consultant at <a href="">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
@@ -21,9 +21,11 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Amit LinkedIn Profile" height="30" width="30">
   </a>
 
+
   <a href="mailto:amitkr20850@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Amit Email" height="30" width="30">
   </a>
+  
 
   <a href="https://twitter.com/camit001__">
     <img src="https://static.vecteezy.com/system/resources/previews/028/571/335/non_2x/twitter-x-new-logo-vcetor-x-new-twitter-icon-twitter-rebrand-little-bird-to-x-letter-symbol-elon-musk-change-social-media-logo-novation-set-of-twitter-new-and-old-round-and-square-logo-free-vector.jpg" alt="Amit Twitter Profile" height="30" width="30">
@@ -35,7 +37,7 @@
 -->
 
 --- 
-<h4 align="center">Top langs <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>   <!-- :tongue:  --> </h4>
+<h4 align="center"> Top langs <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   <!-- :tongue:  --> </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camit001&langs_count=10&theme=tokyonight&layout=compact" alt="camit001 :: Top Langs" /></p>
 
