@@ -50,11 +50,11 @@
 -->
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 💼 Azure Data Engineer | ETL Developer | Databricks & PySpark Enthusiast
+- 💼 Data Engineer | ETL Developer | Databricks & PySpark Enthusiast
 - ☁️ Experienced in building scalable data pipelines using Azure Data Factory (ADF), Azure Databricks, PySpark, Delta Lake, and Azure Data Lake Storage Gen2 (ADLS Gen2)
 - 🗄️ Proficient in SQL (SQL Server, PostgreSQL, Azure SQL), ETL Development, Data Warehousing, Data Modeling, and Performance Optimization
 - 📊 Skilled in designing Medallion Architecture, implementing Delta Lake, and developing efficient batch and incremental data processing pipelines
-- - 🔄 Familiar with Unity Catalog, Delta Live Tables (DLT), Lakehouse Architecture, Data Governance, CI/CD, and modern cloud data engineering practices
+- 🔄 Familiar with Unity Catalog, Delta Live Tables (DLT), Lakehouse Architecture, Data Governance, CI/CD, and modern cloud data engineering practices
 
 ### 🏆 Certified Data Engineer
 
@@ -66,9 +66,9 @@
   - Credential ID: **187238395**
   - 🔗 Verify Certificate: <a href="https://credentials.databricks.com/def8a1b3-d27f-466e-a740-4a4d36a29278#acc.Bv6hqUrm"> LINK </a>
 
-- 📈 Experienced in data analysis and visualization using Databricks dashboard, Power BI and writing optimized SQL queries for business reporting
+- 📈 Experienced in data analysis and visualization using Databricks dashboard, Power BI and writing optimized SQL queries for business 
 - 🚀 Passionate about designing reliable, scalable, and high-performance data platforms that transform raw data into actionable business insights
-- 📚 Committed to continuous learning and staying up to date with the latest advancements in Azure, Databricks, and modern data engineering technologies.
+- 📚 Committed to continuous learning and staying up to date with the latest advancements in Azure, Databricks, and modern data engineering technologies
 - 💻 Programming skills in Python, C#, SQL, HTML, CSS, and hands-on experience with Git/GitHub
 - 🎨 Basic knowledge of Figma, JavaScript, Bootstrap, MongoDB, PHP, C, and C++, with a strong passion for continuously learning emerging technologies
 
