@@ -6,8 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Amit+Kumar;A+Tech+Explorer;+Future-Ready+Data+Engineer;Data+Scientist+Enthusiast" /></a> <img src="https://media.giphy.com/media/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
 </p>
 
-<p><em> - I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
-    - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
+
+<p>
+      - BCA Graduate from <a href="https://bnmu.ac.in/"> BNMU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
+  <em> - 🎓 Completed Master of Computer Applications from <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
   <!-- - 👀 🌟 Tech Explorer | Future-Ready Developer | <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="30"> <br>  -->
    
   
@@ -32,7 +34,7 @@
  
 <!--
 - <p align="center"> <img src="https://komarev.com/ghpvc/?username=camit001" alt="camit001" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: he/him" /> </p>
--->
+
 
 --- 
 <h2 align="center"> Top langs <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   <!-- :tongue:  --> </h2>
@@ -52,8 +54,7 @@
 - ☁️ Experienced in building scalable data pipelines using Azure Data Factory (ADF), Azure Databricks, PySpark, Delta Lake, and Azure Data Lake Storage Gen2 (ADLS Gen2)
 - 🗄️ Proficient in SQL (SQL Server, PostgreSQL, Azure SQL), ETL Development, Data Warehousing, Data Modeling, and Performance Optimization
 - 📊 Skilled in designing Medallion Architecture, implementing Delta Lake, and developing efficient batch and incremental data processing pipelines
-- 📈 Experienced in data analysis and visualization using Databricks dashboard, Power BI and writing optimized SQL queries for business reporting
-- 🔄 Familiar with Unity Catalog, Delta Live Tables (DLT), Lakehouse Architecture, Data Governance, CI/CD, and modern cloud data engineering practices
+- - 🔄 Familiar with Unity Catalog, Delta Live Tables (DLT), Lakehouse Architecture, Data Governance, CI/CD, and modern cloud data engineering practices
 
 ### 🏆 Certified Data Engineer
 
@@ -65,6 +66,7 @@
   - Credential ID: **187238395**
   - 🔗 Verify Certificate: <a href="https://credentials.databricks.com/def8a1b3-d27f-466e-a740-4a4d36a29278#acc.Bv6hqUrm"> LINK </a>
 
+- 📈 Experienced in data analysis and visualization using Databricks dashboard, Power BI and writing optimized SQL queries for business reporting
 - 🚀 Passionate about designing reliable, scalable, and high-performance data platforms that transform raw data into actionable business insights
 - 📚 Committed to continuous learning and staying up to date with the latest advancements in Azure, Databricks, and modern data engineering technologies.
 - 💻 Programming skills in Python, C#, SQL, HTML, CSS, and hands-on experience with Git/GitHub
