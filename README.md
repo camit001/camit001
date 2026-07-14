@@ -3,7 +3,7 @@
 
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Amit+Kumar;A+Tech+Explorer;+Future-Ready+Developer;Data+Analyst+Enthusiast" /></a> <img src="https://media.giphy.com/media/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Amit+Kumar;A+Tech+Explorer;+Future-Ready+Data+Engineer;Data+Scientist+Enthusiast" /></a> <img src="https://media.giphy.com/media/wRBDj2fWeJ4NdBwnUA/giphy.gif" width="50"></h2>
 </p>
 
 <p><em> - I’m currently pursuing MCA at <a href="https://www.hirayica.edu.in/"> Late B Hiray S S T I C A (University of Mumbai) </a><img src="https://media.giphy.com/media/CuNvSe4q4LlF3nfQjw/giphy.gif" width="30"></br>
@@ -48,13 +48,27 @@
 -->
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 💼 Aspiring Full Stack/.NET Developer, and Data Analyst Enthusiast
-- 🔍 Proficient in C#/.Net, Java, HTML, CSS, Python, SQL
-- 📊 Skilled in Data Visualization with PowerBI
-- ✨ Experience in UX/UI Design using Figma
-- 📈 Excel at analyzing and interpreting data to drive informed decision-making
--💡Basic knowledge of PHP, C, C++, JavaScript, Bootstrap, MongoDB, Git | GitHub, MS Office   — continuously expanding my skill set to stay ahead of the curve in today’s fast-evolving tech landscape
-- 👋 I am committed to continuous learning and staying updated with the latest industry trends. 
+- 💼 Azure Data Engineer | ETL Developer | Databricks & PySpark Enthusiast
+- ☁️ Experienced in building scalable data pipelines using Azure Data Factory (ADF), Azure Databricks, PySpark, Delta Lake, and Azure Data Lake Storage Gen2 (ADLS Gen2)
+- 🗄️ Proficient in SQL (SQL Server, PostgreSQL, Azure SQL), ETL Development, Data Warehousing, Data Modeling, and Performance Optimization
+- 📊 Skilled in designing Medallion Architecture, implementing Delta Lake, and developing efficient batch and incremental data processing pipelines
+- 📈 Experienced in data analysis and visualization using Databricks dashboard, Power BI and writing optimized SQL queries for business reporting
+- 🔄 Familiar with Unity Catalog, Delta Live Tables (DLT), Lakehouse Architecture, Data Governance, CI/CD, and modern cloud data engineering practices
+
+### 🏆 Certified Data Engineer
+
+- **Microsoft Certified: Azure Databricks Data Engineer Associate**
+  - Credential ID: **E0042E5B7E76E372**
+  - 🔗 Verify Certificate: <a href="https://learn.microsoft.com/api/credentials/share/en-us/AmitKumar-5182/E0042E5B7E76E372?sharingId=E2C85150FB7D5D95"> LINK </a>
+
+- **Databricks Certified Data Engineer Associate**
+  - Credential ID: **187238395**
+  - 🔗 Verify Certificate: <a href="https://credentials.databricks.com/def8a1b3-d27f-466e-a740-4a4d36a29278#acc.Bv6hqUrm"> LINK </a>
+
+- 🚀 Passionate about designing reliable, scalable, and high-performance data platforms that transform raw data into actionable business insights
+- 📚 Committed to continuous learning and staying up to date with the latest advancements in Azure, Databricks, and modern data engineering technologies.
+- 💻 Programming skills in Python, C#, SQL, HTML, CSS, and hands-on experience with Git/GitHub
+- 🎨 Basic knowledge of Figma, JavaScript, Bootstrap, MongoDB, PHP, C, and C++, with a strong passion for continuously learning emerging technologies
 
 
 <!---
